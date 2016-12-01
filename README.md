@@ -14,7 +14,7 @@ make
 ```
 
 # Input
-#### Layout *(PERSON is the only thing needed to be declared)*
+#### File layout *(PERSON is the only thing needed to be declared)*
 ```
 PERSON        <name> // Needs to be declared before any of the following
   FATHER      <name>
