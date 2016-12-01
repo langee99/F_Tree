@@ -1,0 +1,6 @@
+PERSON Alice
+  MOTHER_OF Bob
+
+PERSON Bob
+  MOTHER Cindy
+

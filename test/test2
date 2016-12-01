@@ -1,0 +1,5 @@
+PERSON Joe 
+  FATHER_OF Son
+
+PERSON Daughter
+  MOTHER Joe 
